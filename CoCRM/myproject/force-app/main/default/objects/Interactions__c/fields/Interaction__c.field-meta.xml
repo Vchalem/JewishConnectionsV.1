@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Interaction__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <label>Interaction Type</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Phone Conversation</fullName>
+                <default>false</default>
+                <label>Phone Conversation</label>
+            </value>
+            <value>
+                <fullName>In Person Conversation</fullName>
+                <default>false</default>
+                <label>In Person Conversation</label>
+            </value>
+            <value>
+                <fullName>Met for Coffee</fullName>
+                <default>false</default>
+                <label>Met for Coffee</label>
+            </value>
+            <value>
+                <fullName>Met for Lunch</fullName>
+                <default>false</default>
+                <label>Met for Lunch</label>
+            </value>
+            <value>
+                <fullName>One-on-One</fullName>
+                <default>false</default>
+                <label>One-on-One</label>
+            </value>
+            <value>
+                <fullName>Direct Mailing</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Direct Mailing</label>
+            </value>
+            <value>
+                <fullName>Email</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Email</label>
+            </value>
+            <value>
+                <fullName>Event</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Event</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

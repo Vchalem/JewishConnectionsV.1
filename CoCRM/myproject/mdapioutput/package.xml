@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>Flow</name>
+    <members>Follow_Up_if_Interaction-6</members>
+    <members>Follow_Up_if_Touch_Point_Date-8</members>
+  </types>
+  <types>
+    <name>Layout</name>
+    <members>Contact-Alum</members>
+    <members>Contact-Donor</members>
+    <members>Contact-Parent</members>
+    <members>Contact-Student</members>
+    <members>Interactions__c-Interaction Layout</members>
+    <members>Spiritual_Milestones__c-Spiritual Milestone Layout</members>
+    <members>Touch_Points__c-Touch Point Layout</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Activity.Interaction_Information__c</members>
+    <members>Contact.Became_Student__c</members>
+    <members>Contact.Class_Of__c</members>
+    <members>Contact.Class__c</members>
+    <members>Contact.Dad_Jewish__c</members>
+    <members>Contact.Donor__c</members>
+    <members>Contact.Expected_Entry_Season__c</members>
+    <members>Contact.Expected_Entry_Year__c</members>
+    <members>Contact.Expected_Graduation_Date__c</members>
+    <members>Contact.Grad_Program__c</members>
+    <members>Contact.Hebrew_Date__c</members>
+    <members>Contact.Jewish__c</members>
+    <members>Contact.Mom_Jewish__c</members>
+    <members>Contact.Religious_Background__c</members>
+    <members>Contact.Type_of_Student__c</members>
+    <members>Contact.Undergraduate_School__c</members>
+    <members>Interactions__c.Contact__c</members>
+    <members>Interactions__c.First_Point_of_Contact__c</members>
+    <members>Interactions__c.Follow_Up_Date__c</members>
+    <members>Interactions__c.Follow_Up__c</members>
+    <members>Interactions__c.Interaction_Date__c</members>
+    <members>Interactions__c.Interaction_Notes__c</members>
+    <members>Interactions__c.Interaction_With__c</members>
+    <members>Interactions__c.Interaction__c</members>
+    <members>Spiritual_Milestones__c.Associated_Activity__c</members>
+    <members>Spiritual_Milestones__c.Notes__c</members>
+    <members>Spiritual_Milestones__c.Student__c</members>
+    <members>Touch_Points__c.Donor__c</members>
+    <members>Touch_Points__c.First_Touch_Point__c</members>
+    <members>Touch_Points__c.Follow_Up_Date__c</members>
+    <members>Touch_Points__c.Follow_Up__c</members>
+    <members>Touch_Points__c.Notes__c</members>
+    <members>Touch_Points__c.Organization__c</members>
+    <members>Touch_Points__c.Touch_Point_Date__c</members>
+    <members>Touch_Points__c.Touch_Point_Type__c</members>
+    <members>Touch_Points__c.Touch_Point_With__c</members>
+  </types>
+  <types>
+    <name>RecordType</name>
+    <members>Contact.Alum</members>
+    <members>Contact.Donor</members>
+    <members>Contact.Parent</members>
+    <members>Contact.Prospective_Student</members>
+    <members>Contact.Student</members>
+    <members>Interactions__c.Donor</members>
+    <members>Interactions__c.Student</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>Interactions__c</members>
+    <members>Spiritual_Milestones__c</members>
+    <members>Touch_Points__c</members>
+  </types>
+  <types>
+    <name>ListView</name>
+    <members>Interactions__c.All</members>
+    <members>Spiritual_Milestones__c.All</members>
+  </types>
+  <types>
+    <name>ValidationRule</name>
+    <members>Interactions__c.Date_Required</members>
+  </types>
+  <types>
+    <name>PermissionSet</name>
+    <members>AccesstoPageLayouts</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>Admin</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
+  </types>
+  <version>44.0</version>
+</Package>

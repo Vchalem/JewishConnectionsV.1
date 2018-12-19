@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Class_Of__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <formula>If(NOT(ISBLANK(Expected_Graduation_Date__c)), Text(Year( Expected_Graduation_Date__c)), 
+
+
+If(MONTH(TODAY())&lt;7,
+
+CASE(Class__c, 
+&quot;Senior&quot;,TEXT(Year(Today())),
+&quot;Junior&quot;, TEXT(Year(Today())+1),
+&quot;Sophomore&quot;, TEXT(Year(Today())+2),
+&quot;Freshman&quot;, TEXT(Year(Today())+3),
+&quot;&quot;),
+
+CASE(Class__c, 
+&quot;Senior&quot;,TEXT(Year(Today())+1),
+&quot;Junior&quot;, TEXT(Year(Today())+2),
+&quot;Sophomore&quot;, TEXT(Year(Today())+3),
+&quot;Freshman&quot;, TEXT(Year(Today())+4),
+&quot;&quot;))
+)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <inlineHelpText>Calculated Based on &quot;Graduation Date&quot; or &quot;Class&quot;</inlineHelpText>
+    <label>Class Of</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

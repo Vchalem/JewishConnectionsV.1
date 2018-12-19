@@ -1,0 +1,1201 @@
+[
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1545076698659,
+            "changeTime": 1545076698659,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1545076698659,
+            "changeTime": 1545076698659,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1545081051863,
+            "changeTime": 1545081051863,
+            "contentHash": "99d8f56ce32e410f487813cf6a7ef480d733df4e"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1545076698659,
+            "changeTime": 1545076698659,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1545077403450,
+            "changeTime": 1545077403450,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1545081051886,
+            "changeTime": 1545081051886,
+            "isWorkspace": false,
+            "contentHash": "fde483953c35c3c0dd9455b01d300d51ec9bf4c8"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1545076975775,
+            "changeTime": 1545076975775,
+            "contentHash": "d6c387f132c8430365039f4ad3d7205a1904925d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "size": 544,
+            "modifiedTime": 1545076747161,
+            "changeTime": 1545076747161,
+            "contentHash": "a2dfd6acda281940e0ac1c7a1786c10675961345",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Became_Student__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Became_Student__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1065,
+            "modifiedTime": 1545076747155,
+            "changeTime": 1545076747155,
+            "contentHash": "6d9952061b6e7598c3adda4093f28828cc22f20e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Class_Of__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Class_Of__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1109,
+            "modifiedTime": 1545076747155,
+            "changeTime": 1545076747155,
+            "contentHash": "e2b3c7d061afe4381dc7a4ddbfc133d6a0bb1141",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Class__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Class__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1387,
+            "modifiedTime": 1545076747156,
+            "changeTime": 1545076747156,
+            "contentHash": "deace3d588e9fac57e2f2a2f31a82acaa03733d4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Dad_Jewish__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Dad_Jewish__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1545076747156,
+            "changeTime": 1545076747156,
+            "contentHash": "6911cb6dd6ef3a47df24ca800cfdea9fe2ff7df3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Donor__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Donor__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1545076747157,
+            "changeTime": 1545076747157,
+            "contentHash": "e69ccd87b3d814239f9f50213c38c354943a5426",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Expected_Entry_Season__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Expected_Entry_Season__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1000,
+            "modifiedTime": 1545076747158,
+            "changeTime": 1545076747158,
+            "contentHash": "c31b3e6a8abcebc910fa401d0b91d8626cd7d6a4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Expected_Entry_Year__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Expected_Entry_Year__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 494,
+            "modifiedTime": 1545076747158,
+            "changeTime": 1545076747158,
+            "contentHash": "6fe347479c1693e862d00fa4177d0102bf1c669a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Expected_Graduation_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Expected_Graduation_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 413,
+            "modifiedTime": 1545076747159,
+            "changeTime": 1545076747159,
+            "contentHash": "665f50bf49ac3a578924ad325bb832bea69c4b24",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Grad_Program__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Grad_Program__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 449,
+            "modifiedTime": 1545076747159,
+            "changeTime": 1545076747159,
+            "contentHash": "84b57565efb6faba892dd52f79d22a58cff68b6b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Hebrew_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Hebrew_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 427,
+            "modifiedTime": 1545076747159,
+            "changeTime": 1545076747159,
+            "contentHash": "6e3ba0f194018b423693cf49b923053982e8f0d8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Jewish__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Jewish__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 398,
+            "modifiedTime": 1545076747159,
+            "changeTime": 1545076747159,
+            "contentHash": "89b31206fe4fdf27d2e680f2ac811ee50e4b28f4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Mom_Jewish__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Mom_Jewish__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1545076747160,
+            "changeTime": 1545076747160,
+            "contentHash": "577b400adbd31c05e12efb1bdc2dbed1adeb2404",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Religious_Background__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Religious_Background__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 418,
+            "modifiedTime": 1545076747160,
+            "changeTime": 1545076747160,
+            "contentHash": "26bda435b88bdeb8957849b862b760914c0d6668",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Type_of_Student__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Type_of_Student__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 933,
+            "modifiedTime": 1545076747160,
+            "changeTime": 1545076747160,
+            "contentHash": "abb57854c9a6a529710e794a88a062740c1c77d3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Undergraduate_School__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/fields/Undergraduate_School__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 465,
+            "modifiedTime": 1545076747161,
+            "changeTime": 1545076747161,
+            "contentHash": "bfcee08040572b386d2c691e3cab80ce13a8437f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1545077548960,
+            "changeTime": 1545077548960,
+            "contentHash": "67439e4908014aea4fc7fa6fb693a14da977a449",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/recordTypes",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/recordTypes",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1545076975778,
+            "changeTime": 1545076975778,
+            "contentHash": "a6b657662bd2ea23fe9fb601c8a8425749c279cc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/recordTypes/Alum.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/recordTypes/Alum.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 1493,
+            "modifiedTime": 1545076975776,
+            "changeTime": 1545076975776,
+            "contentHash": "e698600e0614e271022712c320111115b650bf69",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/recordTypes/Donor.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/recordTypes/Donor.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 1495,
+            "modifiedTime": 1545076975776,
+            "changeTime": 1545076975776,
+            "contentHash": "22467545e5dc21d1d1cc3d0fd0b10223d1be29dd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/recordTypes/Parent.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/recordTypes/Parent.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 1497,
+            "modifiedTime": 1545076975777,
+            "changeTime": 1545076975777,
+            "contentHash": "b5c3a394153b0412708e43910be24f5f777d3e1e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/recordTypes/Prospective_Student.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/recordTypes/Prospective_Student.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 1523,
+            "modifiedTime": 1545076975777,
+            "changeTime": 1545076975777,
+            "contentHash": "27c8e59652d0f221db80f0b5e47cc8a3759dc1c2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/recordTypes/Student.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Contact/recordTypes/Student.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 1499,
+            "modifiedTime": 1545076975778,
+            "changeTime": 1545076975778,
+            "contentHash": "4a19b86edf88f2beef536542af58c7f09b225b9a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Contact-Student.layout-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Contact-Student.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9108,
+            "modifiedTime": 1545077759486,
+            "changeTime": 1545077759486,
+            "contentHash": "a489664c3933694fe99349c429645ef4229fcae0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1545080715580,
+            "changeTime": 1545080715580,
+            "contentHash": "e0531e5c01c0d6e4e85597e9724ce7c5817f5e19",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Contact-Donor.layout-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Contact-Donor.layout-meta.xml",
+            "isDirectory": false,
+            "size": 7742,
+            "modifiedTime": 1545079610401,
+            "changeTime": 1545079610401,
+            "contentHash": "af08e1a49e18cee79545832442f55b46240d20d8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Contact-Parent.layout-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Contact-Parent.layout-meta.xml",
+            "isDirectory": false,
+            "size": 7690,
+            "modifiedTime": 1545079610409,
+            "changeTime": 1545079610409,
+            "contentHash": "516b384fc8c4b22fd331d594cd525b7d9c1714b3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Contact-Alum.layout-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Contact-Alum.layout-meta.xml",
+            "isDirectory": false,
+            "size": 7832,
+            "modifiedTime": 1545079610417,
+            "changeTime": 1545079610417,
+            "contentHash": "149b9f3af5fc8cdfeff6e09fe407bfee6a88bb93",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 1411,
+            "modifiedTime": 1545080321948,
+            "changeTime": 1545080321948,
+            "contentHash": "503a477fa319e07599169dd3667394829f16ae16",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5893,
+            "modifiedTime": 1545079363963,
+            "changeTime": 1545079363963,
+            "contentHash": "2daa41cea4e5edf8420c5169038c8cda444519bb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5555,
+            "modifiedTime": 1545079363967,
+            "changeTime": 1545079363967,
+            "contentHash": "eaf953c1ff6cf27fa42a948579f53bcb7e9c7669",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5555,
+            "modifiedTime": 1545079363973,
+            "changeTime": 1545079363973,
+            "contentHash": "eaf953c1ff6cf27fa42a948579f53bcb7e9c7669",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1545079363972,
+            "changeTime": 1545079363972,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/permissionsets/AccesstoPageLayouts.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/permissionsets/AccesstoPageLayouts.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 1134,
+            "modifiedTime": 1545080142846,
+            "changeTime": 1545080142846,
+            "contentHash": "c63c23f0e20e7837563c7d2cf701843e95a34b61",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1545079842336,
+            "changeTime": 1545079842336,
+            "contentHash": "315b8cd85d2e6b3fe310a5bd2ff14340fda91272",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1545080715618,
+            "changeTime": 1545080715618,
+            "contentHash": "0cd15045fa60fa952436933c16a8d05dc71a3dd5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1545080715616,
+            "changeTime": 1545080715616,
+            "contentHash": "5103ec8d284f880d5c624fea9019dd254ec75ed7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/listViews",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1545080715616,
+            "changeTime": 1545080715616,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/recordTypes",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/recordTypes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1545080715618,
+            "changeTime": 1545080715618,
+            "contentHash": "0aadaee658bbc8f45da56ef35963bc3d89429ff8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/validationRules",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/validationRules",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1545080715618,
+            "changeTime": 1545080715618,
+            "contentHash": "e87faa7606a72416c6af044b36a4fbdc44ef600e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1545080715633,
+            "changeTime": 1545080715633,
+            "contentHash": "f733d972ddb6a829f9f725d300a3d7123ee8454c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/fields",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/fields",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1545080715633,
+            "changeTime": 1545080715633,
+            "contentHash": "f56ba93fa54e5da5d48dbcaf91d559fb1b0c5ba2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/listViews",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1545080715634,
+            "changeTime": 1545080715634,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1545080715645,
+            "changeTime": 1545080715645,
+            "contentHash": "1cdf73840927e80b3c269f54b584877d23b05c34",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1545080715650,
+            "changeTime": 1545080715650,
+            "contentHash": "34aaec0515b65bc0ec6f2d7e76a4d85229f15fa5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/Interactions__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/Interactions__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2291,
+            "modifiedTime": 1545080715612,
+            "changeTime": 1545080715612,
+            "contentHash": "7eed0a99cc67d2680ad8e116437fa4ba74f45618",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Contact__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 678,
+            "modifiedTime": 1545080715612,
+            "changeTime": 1545080715612,
+            "contentHash": "cd7a5b260c124d3d054e5d9acf0faf9cfd74ab23",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/First_Point_of_Contact__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/First_Point_of_Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 419,
+            "modifiedTime": 1545080715613,
+            "changeTime": 1545080715613,
+            "contentHash": "4a5cb787a4a533de248779578398c6246ddce348",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Follow_Up_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Follow_Up_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1545080715613,
+            "changeTime": 1545080715613,
+            "contentHash": "be7eea99649b859e5e6c7cf57c6d1f2fdc74afda",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Follow_Up__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Follow_Up__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 398,
+            "modifiedTime": 1545080715613,
+            "changeTime": 1545080715613,
+            "contentHash": "2af39a15db70dd5f4e7c7096fa19099523786d9d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Interaction_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Interaction_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 400,
+            "modifiedTime": 1545080715614,
+            "changeTime": 1545080715614,
+            "contentHash": "1cba265403c739d0224e589e64ca5bd97ee0297a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Interaction_Notes__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Interaction_Notes__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1545080715614,
+            "changeTime": 1545080715614,
+            "contentHash": "9e75bb0dabd79ce0466045b6c4b4b1dccfcb3c12",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Interaction_With__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Interaction_With__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1073,
+            "modifiedTime": 1545080715615,
+            "changeTime": 1545080715615,
+            "contentHash": "c03566e416a7a9d8a032fb368b891f6a6d84cef6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Interaction__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/fields/Interaction__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2109,
+            "modifiedTime": 1545080715616,
+            "changeTime": 1545080715616,
+            "contentHash": "0cdbc0c1d6a20e89ba280603668be4829efa8bb7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1545080715616,
+            "changeTime": 1545080715616,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/recordTypes/Donor.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/recordTypes/Donor.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 1093,
+            "modifiedTime": 1545080715617,
+            "changeTime": 1545080715617,
+            "contentHash": "e65d20d4d0eab4efc635e597b40ec45e2f14312f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/recordTypes/Student.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/recordTypes/Student.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 1329,
+            "modifiedTime": 1545080715618,
+            "changeTime": 1545080715618,
+            "contentHash": "1bb1a99143a77c6a06f95e430642d9bce97a6f86",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/validationRules/Date_Required.validationRule-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Interactions__c/validationRules/Date_Required.validationRule-meta.xml",
+            "isDirectory": false,
+            "size": 456,
+            "modifiedTime": 1545080715618,
+            "changeTime": 1545080715618,
+            "contentHash": "c62a916152e9aede24dea82c43b950f1c32b2b2a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/Spiritual_Milestones__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/Spiritual_Milestones__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2249,
+            "modifiedTime": 1545080715631,
+            "changeTime": 1545080715631,
+            "contentHash": "62914a3f178b690e56778d7e8312c210eae4fe44",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/fields/Associated_Activity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/fields/Associated_Activity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2139,
+            "modifiedTime": 1545080715632,
+            "changeTime": 1545080715632,
+            "contentHash": "ba3d3d19c06bcbe3ac9bc5160894320776bbd555",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/fields/Notes__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/fields/Notes__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 382,
+            "modifiedTime": 1545080715633,
+            "changeTime": 1545080715633,
+            "contentHash": "9d89fd86ce2715152bc235da87b292f88fdee419",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/fields/Student__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/fields/Student__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 694,
+            "modifiedTime": 1545080715633,
+            "changeTime": 1545080715633,
+            "contentHash": "14a30fdac61cc447685f59489edd49c7126cc204",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Spiritual_Milestones__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1545080715634,
+            "changeTime": 1545080715634,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/Touch_Points__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/Touch_Points__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2246,
+            "modifiedTime": 1545080715645,
+            "changeTime": 1545080715645,
+            "contentHash": "a499936862b5ef58eb90c5db1a74fb1a3146fcd1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Donor__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Donor__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 539,
+            "modifiedTime": 1545080715645,
+            "changeTime": 1545080715645,
+            "contentHash": "48c0d0fa87fff78a5c54e92fbcef0f35e11f6356",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/First_Touch_Point__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/First_Touch_Point__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 375,
+            "modifiedTime": 1545080715646,
+            "changeTime": 1545080715646,
+            "contentHash": "76add5bf114175dbef14efbaf557388f38d78d2f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Follow_Up_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Follow_Up_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 357,
+            "modifiedTime": 1545080715646,
+            "changeTime": 1545080715646,
+            "contentHash": "259257473ab8f2dfa2228ab832a5a9224d3dc592",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Follow_Up__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Follow_Up__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 359,
+            "modifiedTime": 1545080715647,
+            "changeTime": 1545080715647,
+            "contentHash": "628b47536b84a07d65d5fc2d9b9eb0e5238174cc",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Notes__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Notes__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 343,
+            "modifiedTime": 1545080715647,
+            "changeTime": 1545080715647,
+            "contentHash": "af8a492048c79d751e1a9cfbd08f30c56fdf05b6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Organization__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Organization__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 553,
+            "modifiedTime": 1545080715648,
+            "changeTime": 1545080715648,
+            "contentHash": "fd31d156a280443ed15cc0ccfe2a9641baeacb82",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Touch_Point_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Touch_Point_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 361,
+            "modifiedTime": 1545080715649,
+            "changeTime": 1545080715649,
+            "contentHash": "18678839a77a03c7289550354e7bc4b0177e0c93",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Touch_Point_Type__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Touch_Point_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1728,
+            "modifiedTime": 1545080715649,
+            "changeTime": 1545080715649,
+            "contentHash": "0002462c255d83e917c029cb3cae11d65f464d3c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Touch_Point_With__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Touch_Points__c/fields/Touch_Point_With__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 860,
+            "modifiedTime": 1545080715650,
+            "changeTime": 1545080715650,
+            "contentHash": "9b3d8601103e1ea216b14b67b6f521d431975e6e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Interactions__c-Interaction Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Interactions__c-Interaction Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3892,
+            "modifiedTime": 1545080715575,
+            "changeTime": 1545080715575,
+            "contentHash": "f64c5606f06da25dfb08bc01f0caaf127858765d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Spiritual_Milestones__c-Spiritual Milestone Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Spiritual_Milestones__c-Spiritual Milestone Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3289,
+            "modifiedTime": 1545080715578,
+            "changeTime": 1545080715578,
+            "contentHash": "f5c03b62a1efc4bf7a6052f32ec7404bb7681b77",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Touch_Points__c-Touch Point Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/layouts/Touch_Points__c-Touch Point Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3318,
+            "modifiedTime": 1545080715580,
+            "changeTime": 1545080715580,
+            "contentHash": "93f7cd45383f8a732f6657ff4b91a0875607c151",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/flows",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1545081051873,
+            "changeTime": 1545081051873,
+            "contentHash": "6daab472ddfa02ce8227ecc280c9a2e99dbcb30c"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Activity",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Activity",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545081051886,
+            "changeTime": 1545081051886,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Activity/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Activity/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1545081051886,
+            "changeTime": 1545081051886,
+            "contentHash": "375b61f98cc873286570a154bbe92be961607c85"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/flows/Follow_Up_if_Interaction-6.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/flows/Follow_Up_if_Interaction-6.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12506,
+            "modifiedTime": 1545081051865,
+            "changeTime": 1545081051865,
+            "contentHash": "f16ff78199d38d50009089e8e690f2250a90e1b0"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/flows/Follow_Up_if_Touch_Point_Date-8.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/flows/Follow_Up_if_Touch_Point_Date-8.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12252,
+            "modifiedTime": 1545081051874,
+            "changeTime": 1545081051874,
+            "contentHash": "d9710e9fb20980ab3a4c127ee94753d787e672cf"
+        }
+    ],
+    [
+        "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Activity/fields/Interaction_Information__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/CoCRM/myproject/force-app/main/default/objects/Activity/fields/Interaction_Information__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 338,
+            "modifiedTime": 1545081051886,
+            "changeTime": 1545081051886,
+            "contentHash": "34cabfae4dfa9034793aeab8cee70115dd6eefb6"
+        }
+    ]
+]

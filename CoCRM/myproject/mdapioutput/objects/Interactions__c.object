@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <deprecated>false</deprecated>
+    <enableActivities>true</enableActivities>
+    <enableBulkApi>false</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>true</enableHistory>
+    <enableReports>true</enableReports>
+    <enableSearch>true</enableSearch>
+    <enableSharing>false</enableSharing>
+    <enableStreamingApi>false</enableStreamingApi>
+    <label>Interaction</label>
+    <nameField>
+        <displayFormat>Int# {0}</displayFormat>
+        <label>Interaction Record #</label>
+        <trackHistory>false</trackHistory>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>Interactions</pluralLabel>
+    <recordTypeTrackHistory>false</recordTypeTrackHistory>
+    <searchLayouts/>
+    <sharingModel>ControlledByParent</sharingModel>
+    <visibility>Public</visibility>
+    <fields>
+        <fullName>Contact__c</fullName>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>Contact</label>
+        <referenceTo>Contact</referenceTo>
+        <relationshipLabel>Interactions</relationshipLabel>
+        <relationshipName>Interactions2</relationshipName>
+        <relationshipOrder>0</relationshipOrder>
+        <reparentableMasterDetail>false</reparentableMasterDetail>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>MasterDetail</type>
+        <writeRequiresMasterRead>false</writeRequiresMasterRead>
+    </fields>
+    <fields>
+        <fullName>First_Point_of_Contact__c</fullName>
+        <defaultValue>false</defaultValue>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>First Touch Point</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Follow_Up_Date__c</fullName>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>Follow Up Date</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Follow_Up__c</fullName>
+        <defaultValue>false</defaultValue>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>Follow Up</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Interaction_Date__c</fullName>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>Interaction Date</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Interaction_Notes__c</fullName>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>Interaction Notes</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Interaction_With__c</fullName>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>Interaction With</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Rabbi</fullName>
+                    <default>false</default>
+                    <label>Rabbi</label>
+                </value>
+                <value>
+                    <fullName>Rebbetzin</fullName>
+                    <default>false</default>
+                    <label>Rebbetzin</label>
+                </value>
+                <value>
+                    <fullName>Student Rep</fullName>
+                    <default>false</default>
+                    <label>Student Rep</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Interaction__c</fullName>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>Interaction Type</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Phone Conversation</fullName>
+                    <default>false</default>
+                    <label>Phone Conversation</label>
+                </value>
+                <value>
+                    <fullName>In Person Conversation</fullName>
+                    <default>false</default>
+                    <label>In Person Conversation</label>
+                </value>
+                <value>
+                    <fullName>Met for Coffee</fullName>
+                    <default>false</default>
+                    <label>Met for Coffee</label>
+                </value>
+                <value>
+                    <fullName>Met for Lunch</fullName>
+                    <default>false</default>
+                    <label>Met for Lunch</label>
+                </value>
+                <value>
+                    <fullName>One-on-One</fullName>
+                    <default>false</default>
+                    <label>One-on-One</label>
+                </value>
+                <value>
+                    <fullName>Direct Mailing</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Direct Mailing</label>
+                </value>
+                <value>
+                    <fullName>Email</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Email</label>
+                </value>
+                <value>
+                    <fullName>Event</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Event</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <recordTypes>
+        <fullName>Donor</fullName>
+        <active>false</active>
+        <label>Donor</label>
+        <picklistValues>
+            <picklist>Interaction_With__c</picklist>
+            <values>
+                <fullName>Rabbi</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Rebbetzin</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Interaction__c</picklist>
+            <values>
+                <fullName>In Person Conversation</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Met for Coffee</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Met for Lunch</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Phone Conversation</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Student</fullName>
+        <active>true</active>
+        <label>Student</label>
+        <picklistValues>
+            <picklist>Interaction_With__c</picklist>
+            <values>
+                <fullName>Rabbi</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Rebbetzin</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Student Rep</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
+            <picklist>Interaction__c</picklist>
+            <values>
+                <fullName>In Person Conversation</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Met for Coffee</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Met for Lunch</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>One-on-One</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Phone Conversation</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
+    <validationRules>
+        <fullName>Date_Required</fullName>
+        <active>true</active>
+        <description>Date is Required for Interaction</description>
+        <errorConditionFormula>ISBLANK(Interaction_Date__c)</errorConditionFormula>
+        <errorDisplayField>Interaction_Date__c</errorDisplayField>
+        <errorMessage>Interaction Date is Required</errorMessage>
+    </validationRules>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+</CustomObject>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Student</fullName>
+    <active>true</active>
+    <label>Student</label>
+    <picklistValues>
+        <picklist>Interaction_With__c</picklist>
+        <values>
+            <fullName>Rabbi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Rebbetzin</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Student Rep</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Interaction__c</picklist>
+        <values>
+            <fullName>In Person Conversation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Met for Coffee</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Met for Lunch</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>One-on-One</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Phone Conversation</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
